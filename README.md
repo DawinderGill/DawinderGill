@@ -1,7 +1,7 @@
 ## 🙋‍♂️ About Me :
 Hello! 👋 I'm Dawinder, a seasoned Native Android Application Developer based in Edmonton, Canada. With over 8 years of experience in building robust and scalable Android applications using Java and Kotlin, I have developed a strong understanding of OOP concepts and SOLID principles. Currently, I am focusing on Native Android Application Development.
 
-You can read my articles on [Medium](https://medium.com/@dawinderapps) or check out my demo projects on [GitHub](https://github.com/DawinderGill), which can help you create high-quality applications by following best practices. Feel free to ask me anything about Android!
+You can read my articles on [Medium](https://medium.com/@dawinderapps) or check out my demo projects on [GitHub](https://github.com/DawinderGill?tab=repositories), which can help you create high-quality applications by following best practices. Feel free to ask me anything about Android!
 
 
 ## 📫 How to Reach Me
