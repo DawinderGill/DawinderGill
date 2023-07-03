@@ -8,6 +8,7 @@ You can read my articles on [Medium](https://medium.com/@dawinderapps) or check 
 
 - Email: dawinderapps@gmail.com
 - LinkedIn: [Click Here](https://www.linkedin.com/in/dawinder-singh-gill-2b1833171)
+- Medium: [Click Here](http://medium.com/@dawinderapps)
 
 ## 🧰 Professional Experience
 
@@ -19,7 +20,7 @@ Currently, I'm associated with ``WorksDelight Inc, Toronto, Ontario``, as a ``Na
 
 During my tenure at various organizations, I've contributed to the development of a number of successful applications. Here are some of them:
 
-- [__Fit Radio Workout Music__](https://play.google.com/store/apps/details?id=com.fitradio) 🏋️‍♀️ - Fit Radio Workout Music is a unique fitness application that delivers DJ engineered mixes of your favorite songs that are designed to match your workout pace and keep you motivated and focused. Whether you're into running, strength training, or yoga, there's something for everyone.
+- [__Fit Radio Workout Music__](https://play.google.com/store/apps/details?id=com.fitradio) 💪 - Fit Radio Workout Music is a unique fitness application that delivers DJ engineered mixes of your favorite songs that are designed to match your workout pace and keep you motivated and focused. Whether you're into running, strength training, or yoga, there's something for everyone.
 - [__Logic Puzzles Daily__](https://play.google.com/store/apps/details?id=com.logicpuzzle) 💡 - Logic Puzzles Daily is a fun and challenging game that offers brain exercises for adults & kids. The app allows you to solve unlimited logic grid puzzles, track your performance with charts and stats, and compete with others for the top spots on the leaderboard.
 - [__Khedmatazma__](https://play.google.com/store/apps/details?id=com.khedmatazma.customer) 🛠️ - Khedmatazma is a comprehensive platform that connects service providers and customers. Users can book a wide range of services, from home cleaning and beauty services to car wash and maintenance. The platform guarantees top quality services at reasonable prices.
 - [__Smart Community Parking__](https://play.google.com/store/apps/details?id=orem.scp) 🚗 - Smart Community Parking is intended for drivers who are looking for free, street car parking. Users share their space before driving away from a space, another user takes that space creating a cycle that organizes and resolves parking shortage.
@@ -30,7 +31,7 @@ During my tenure at various organizations, I've contributed to the development o
 In addition to my professional work, I engage in personal projects to further hone my skills and experiment with new concepts:
 
 - [__Gutka Sahib__](https://play.google.com/store/apps/details?id=com.dawinder.gurbani) 📖 - Gutka Sahib app provides a range of Nitnem banis, accompanied by audio for an immersive spiritual experience. It features a unique 'Sehaj Path' function that remembers the last-read page, ensuring a seamless reading experience. Listen to live Kirtan from Sri Harmandir Sahib and world Gurdwaras Live Radio Stations anytime, anywhere. The app offers daily Hukamnama updates from Shri Harmandir Sahib and includes Nanakshahi Calendar.
-- [__Home Fitness__](https://play.google.com/store/apps/details?id=com.dawinder.homefit) 🏋️‍♀️ - Home Fitness is your guide to maintaining a healthy lifestyle even when you're at home. The app provides a wide range of workout routines categorized by targeted body parts. It also offers features like workout reminders, progress tracking, and the ability to customize your workout routines.
+- [__Home Fitness__](https://play.google.com/store/apps/details?id=com.dawinder.homefit) 💪 - Home Fitness is your guide to maintaining a healthy lifestyle even when you're at home. The app provides a wide range of workout routines categorized by targeted body parts. It also offers features like workout reminders, progress tracking, and the ability to customize your workout routines.
 - [__UHD Wallpapers__](https://play.google.com/store/apps/details?id=com.dawinder.hdwallpapers) 🖼️ - UHD Wallpapers offers a collection of high-definition wallpapers to personalize your device. The app features a broad category of wallpaper themes, from nature and landscapes to cars and abstract art. Users can download and set wallpapers directly from the app.
 
 
