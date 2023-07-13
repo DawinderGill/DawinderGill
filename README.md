@@ -37,10 +37,8 @@ In addition to my professional work, I engage in personal projects to further ho
 
 ## 👐 Open Source Projects
 
-Open source projects are a fundamental part of my journey as a developer. It allows me to collaborate with other developers and give back to the community. Here are some of the projects I've worked on:
+Open-source projects are a fundamental part of my journey as a developer. It allows me to collaborate with other developers and give back to the community. Here are some of the projects I've worked on: [__Click Here__](https://github.com/DawinderGill?tab=repositories)
 
-- [__DawinderUtils-Lib__](https://github.com/DawinderGill/DawinderUtils-Lib) 🔧 - A utility library crafted to expedite Android app development. This library offers a collection of helper classes and functions to perform common tasks in Android development more efficiently.
-- [__MusicPlayer-JetpackCompose__](https://github.com/DawinderGill/MusicPlayer-JetpackCompose) 🎵 - A simple music player application built using the Jetpack Compose UI toolkit for Android. It serves as a practical example of modern Android development architecture, using Jetpack Compose for UI design and Kotlin for backend logic.
 
 
 ## 💻 General Tech Stack
